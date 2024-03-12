@@ -23,7 +23,4 @@ NOSTRA is an online shopping platform designed to provide users with a seamless 
 
 ## Getting Started
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/nostra-ecommerce.git
+https://gokulraj-st.github.io/E-Commerce_Clone-Nostra/Nostra/index.html
